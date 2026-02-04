@@ -1,0 +1,41 @@
+cliente_id,nome,segmento,regiao,email,telefone
+C001,Restaurante Silva,Restauração,Porto,restaurante.silva@email.pt,912345678
+C002,Hotel Mar Azul,Hotelaria,Lisboa,geral@hotelmarazul.pt,913456789
+C003,Café Central,Restauração,Coimbra,cafe.central@email.pt,914567890
+C004,Marisqueira Atlântico,Restauração,Faro,marisqueira@atlantico.pt,915678901
+C005,Churrascaria Gaúcho,Restauração,Porto,churras.gaucho@email.pt,916789012
+C006,Padaria Tradicional,Retalho,Braga,padaria.trad@email.pt,917890123
+C007,Mercearia Moderna,Retalho,Lisboa,mercearia@moderna.pt,918901234
+C008,Supermercado Local,Retalho,Aveiro,super.local@email.pt,919012345
+C009,Cantina Universitária,Institucional,Coimbra,cantina@uc.pt,920123456
+C010,Refeitório Industrial,Institucional,Setúbal,refeitorio@industrial.pt,921234567
+C011,Restaurante Gourmet,Restauração Premium,Lisboa,gourmet@restaurant.pt,922345678
+C012,Tasca do Zé,Restauração,Porto,tasca.ze@email.pt,923456789
+C013,Hotel Palácio,Hotelaria Premium,Sintra,reservas@hotelpalacio.pt,924567890
+C014,Pastelaria Doce,Retalho,Braga,pastelaria.doce@email.pt,925678901
+C015,Minimercado Express,Retalho,Lisboa,mini.express@email.pt,926789012
+C016,Restaurante Familiar,Restauração,Leiria,rest.familiar@email.pt,927890123
+C017,Casa de Petiscos,Restauração,Évora,petiscos@casa.pt,928901234
+C018,Hotel Praia,Hotelaria,Algarve,geral@hotelpraia.pt,929012345
+C019,Taberna Antiga,Restauração,Viseu,taberna.antiga@email.pt,930123456
+C020,Distribuidora Norte,Distribuição,Porto,dist.norte@email.pt,931234567
+C021,Churrasqueira Popular,Restauração,Lisboa,churras.pop@email.pt,932345678
+C022,Café Tertúlia,Restauração,Coimbra,cafe.tertulia@email.pt,933456789
+C023,Restaurante Vista Mar,Restauração,Cascais,vista.mar@email.pt,934567890
+C024,Talho Premium,Retalho,Lisboa,talho.premium@email.pt,935678901
+C025,Frutaria Verde,Retalho,Porto,frutaria.verde@email.pt,936789012
+C026,Snack Bar Rápido,Restauração,Amadora,snack.rapido@email.pt,937890123
+C027,Hotel Business,Hotelaria,Lisboa,business@hotel.pt,938901234
+C028,Cervejaria Tradição,Restauração,Setúbal,cervejaria@tradicao.pt,939012345
+C029,Confeitaria Doces,Retalho,Aveiro,confeitaria.doces@email.pt,940123456
+C030,Pizzaria Italiana,Restauração,Lisboa,pizzaria@italiana.pt,941234567
+C031,Restaurante Vegetariano,Restauração,Porto,veg.rest@email.pt,942345678
+C032,Pastelaria Central,Retalho,Braga,pastelaria.central@email.pt,943456789
+C033,Hotel Resort,Hotelaria Premium,Algarve,resort@hotel.pt,944567890
+C034,Mercearia Bairro,Retalho,Lisboa,mercearia.bairro@email.pt,945678901
+C035,Restaurante Típico,Restauração,Évora,tipico@rest.pt,946789012
+C036,Café Esplanada,Restauração,Cascais,esplanada@cafe.pt,947890123
+C037,Distribuidora Sul,Distribuição,Faro,dist.sul@email.pt,948901234
+C038,Cantina Escolar,Institucional,Porto,cantina@escola.pt,949012345
+C039,Restaurante Fusion,Restauração Premium,Lisboa,fusion@rest.pt,950123456
+C040,Loja Gourmet,Retalho Premium,Lisboa,loja@gourmet.pt,951234567

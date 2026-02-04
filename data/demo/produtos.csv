@@ -1,0 +1,11 @@
+produto_id,nome,categoria,preco_unitario,margem
+P001,Bacalhau Seco,Peixe,75.00,0.25
+P002,Camarão 40/60,Marisco,55.00,0.22
+P003,Azeite Virgem Extra,Mercearia,45.00,0.35
+P004,Arroz Carolino,Mercearia,60.00,0.30
+P005,Gambas 20/30,Marisco,60.00,0.20
+P006,Polvo,Marisco,45.00,0.28
+P007,Vinho Tinto DOC,Bebidas,35.00,0.40
+P008,Presunto Ibérico,Charcutaria,55.00,0.32
+P009,Queijo Serra,Lacticínios,85.00,0.38
+P010,Amêijoas,Marisco,65.00,0.24
