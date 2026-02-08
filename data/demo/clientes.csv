@@ -1,41 +1,51 @@
-cliente_id,nome,segmento,regiao,email,telefone
-C001,Restaurante Silva,Restauração,Porto,restaurante.silva@email.pt,912345678
-C002,Hotel Mar Azul,Hotelaria,Lisboa,geral@hotelmarazul.pt,913456789
-C003,Café Central,Restauração,Coimbra,cafe.central@email.pt,914567890
-C004,Marisqueira Atlântico,Restauração,Faro,marisqueira@atlantico.pt,915678901
-C005,Churrascaria Gaúcho,Restauração,Porto,churras.gaucho@email.pt,916789012
-C006,Padaria Tradicional,Retalho,Braga,padaria.trad@email.pt,917890123
-C007,Mercearia Moderna,Retalho,Lisboa,mercearia@moderna.pt,918901234
-C008,Supermercado Local,Retalho,Aveiro,super.local@email.pt,919012345
-C009,Cantina Universitária,Institucional,Coimbra,cantina@uc.pt,920123456
-C010,Refeitório Industrial,Institucional,Setúbal,refeitorio@industrial.pt,921234567
-C011,Restaurante Gourmet,Restauração Premium,Lisboa,gourmet@restaurant.pt,922345678
-C012,Tasca do Zé,Restauração,Porto,tasca.ze@email.pt,923456789
-C013,Hotel Palácio,Hotelaria Premium,Sintra,reservas@hotelpalacio.pt,924567890
-C014,Pastelaria Doce,Retalho,Braga,pastelaria.doce@email.pt,925678901
-C015,Minimercado Express,Retalho,Lisboa,mini.express@email.pt,926789012
-C016,Restaurante Familiar,Restauração,Leiria,rest.familiar@email.pt,927890123
-C017,Casa de Petiscos,Restauração,Évora,petiscos@casa.pt,928901234
-C018,Hotel Praia,Hotelaria,Algarve,geral@hotelpraia.pt,929012345
-C019,Taberna Antiga,Restauração,Viseu,taberna.antiga@email.pt,930123456
-C020,Distribuidora Norte,Distribuição,Porto,dist.norte@email.pt,931234567
-C021,Churrasqueira Popular,Restauração,Lisboa,churras.pop@email.pt,932345678
-C022,Café Tertúlia,Restauração,Coimbra,cafe.tertulia@email.pt,933456789
-C023,Restaurante Vista Mar,Restauração,Cascais,vista.mar@email.pt,934567890
-C024,Talho Premium,Retalho,Lisboa,talho.premium@email.pt,935678901
-C025,Frutaria Verde,Retalho,Porto,frutaria.verde@email.pt,936789012
-C026,Snack Bar Rápido,Restauração,Amadora,snack.rapido@email.pt,937890123
-C027,Hotel Business,Hotelaria,Lisboa,business@hotel.pt,938901234
-C028,Cervejaria Tradição,Restauração,Setúbal,cervejaria@tradicao.pt,939012345
-C029,Confeitaria Doces,Retalho,Aveiro,confeitaria.doces@email.pt,940123456
-C030,Pizzaria Italiana,Restauração,Lisboa,pizzaria@italiana.pt,941234567
-C031,Restaurante Vegetariano,Restauração,Porto,veg.rest@email.pt,942345678
-C032,Pastelaria Central,Retalho,Braga,pastelaria.central@email.pt,943456789
-C033,Hotel Resort,Hotelaria Premium,Algarve,resort@hotel.pt,944567890
-C034,Mercearia Bairro,Retalho,Lisboa,mercearia.bairro@email.pt,945678901
-C035,Restaurante Típico,Restauração,Évora,tipico@rest.pt,946789012
-C036,Café Esplanada,Restauração,Cascais,esplanada@cafe.pt,947890123
-C037,Distribuidora Sul,Distribuição,Faro,dist.sul@email.pt,948901234
-C038,Cantina Escolar,Institucional,Porto,cantina@escola.pt,949012345
-C039,Restaurante Fusion,Restauração Premium,Lisboa,fusion@rest.pt,950123456
-C040,Loja Gourmet,Retalho Premium,Lisboa,loja@gourmet.pt,951234567
+cliente_id,nome,segmento,regiao,cidade
+85852538,100 PENEIRAS - RESTAURAÇÃO E TURISMO LDA,Distribuição,SEIXAL,SEIXAL
+85852543,"A CAMINHO DA GRELHA, UNIPESSOAL LDA",Distribuição,BREJOS,BREJOS DE AZEITÃO
+135792813,A R Novais Lda,Distribuição,Adaufe,Adaufe
+85852558,A TRANSMONTANA - MARIA ROSA OLIVEIRA FARIA PINTO,Outro,AMORA,AMORA
+127586424,Abrancongelados - Produtos Alimentares Lda,Distribuição,Abrantes,Abrantes
+140785044,Açorbac Distribuição e Venda de Bacalhau e Produto,Distribuição,Pico,Pico da Pedra
+85852563,"ÁGUAS DE MIL - ACT. HOTELEIRAS, LDA.",Horeca,ALMADA,ALMADA
+85852568,"ALEGRE GRELHA - RESTAURAÇÃO, LDA. BIFANAS ALEGRO",Distribuição,CARNAXIDE,CARNAXIDE
+85852573,"ALENTEJO SABORES-REST. UNIP., LDA.(ALENT ALEGRO)",Distribuição,CARNAXIDE,CARNAXIDE
+85852578,ALFREDO JOSÉ DIAS CAETANO,Outro,BARREIRO,BARREIRO
+127467407,Alimentar Desafios Comercio de Produtos Alimentare,Distribuição,Brito,Brito
+88410133,"ALPENDRE SALGADO UNIPESSOAL, LDA",Distribuição,AMORA,AMORA
+85852588,"ALVES E GONÇALVES, LDA - REST. JARDIM",Distribuição,COVA,COVA DA PIEDADE
+127819127,Amor e Leveza Unipessoal Lda,Distribuição,Lisboa,Lisboa
+85852598,ANA APOLINÁRIO,Outro,CHARNECA,CHARNECA DA CAPARICA
+85852608,ANABELA MARCELINO LOPES UNIPESSOAL LDA,Distribuição,CRUZ,CRUZ DE PAU
+86685720,"APLAUDE AROMA UNIPESSOAL, LDA",Distribuição,LISBOA,LISBOA
+85852628,ARIGATO CAMPO PEQUENO SEGMENTO VIRTUAL - UNIPESSOA,Outro,LISBOA,LISBOA
+85852633,ARRABIDA NA GRELHA-RESTAURAÇÃO LDA (BRASA RIO),Distribuição,PORTO,PORTO
+85852638,"ART SUSHI AROMAPADRÃO, LDA",Distribuição,VALE,VALE MILHAÇOS
+128735855,Astrobalance - Comercio Unipessoal Lda,Distribuição,Viseu,Viseu
+126742374,"ATALHO URGENTE, LDA",Distribuição,BARREIRO,BARREIRO
+129975707,Aveicongel Lda,Distribuição,Aveiro,Aveiro
+85852653,AZEITONA COM ALECRIM LDA,Distribuição,AMADORA,AMADORA
+85852663,BAR CLUBE CORROIOS - MARIA IRENE LOPES B. ESCOVAL,Horeca,CORROIOS,CORROIOS
+85852678,BAR-O PANÇAS LDA,Horeca,AMADORA,AMADORA
+104504389,"BARÇAINDOMAVEL- PAST. E CASAS DE  CHA BARES CAFES,",Horeca,AMORA,AMORA
+120033039,"BARREIROS E NEVES, LDA",Horeca,CORROIOS,CORROIOS
+105379269,"BASTIDORGENIAL-UNIPESSOAL, LDA",Distribuição,AMORA,AMORA
+132278497,Belave Produtos Alimentares Lda,Distribuição,Maceira,Maceira Lra
+85852688,"BELIZAZEL-SOLUÇÕES IBÉRICAS, UNIPESSOAL LDA",Distribuição,FRIELAS,FRIELAS
+128699227,Bento & Nascimento Lda,Distribuição,Ílhavo,Ílhavo
+85852693,"BERDI E CA - ACTIVIDADES HOTELEIRAS, UNIPESSOAL, L",Horeca,LISBOA,LISBOA
+85852698,"BIFANAS CONCEPT, LDA. (BIFANAS SETÚBAL)",Distribuição,SETUBAL,SETUBAL
+85852703,"BIFANAS DO TEJO-ACTIVIDADES, LDA.(BIFANAS UBBO)",Distribuição,AMADORA,AMADORA
+85852708,"BIFANAS V.N.-SABORES DAS CAFETARIAS, LDA. (CASCAIS",Distribuição,CASCAIS,CASCAIS
+85852713,"BIFANAS VENDAS NOVAS, CASA ORIGINAL (COZINHA CENTR",Outro,CHARNECA,CHARNECA DA CAPARICA
+85852723,"BITOQUE NO PONTO, LDA.(ALMADA)",Distribuição,ALMADA,ALMADA
+85852718,"BITOQUE UBBO - ACT. HOTELEIRAS, LDA",Horeca,AMADORA,AMADORA
+130976516,Bobo da Corte do Castelo de Palmela - Hot. Lda,Distribuição,Palmela,Palmela
+85852743,"BRANCO E RIBEIRO, LDA",Distribuição,PAIO,PAIO PIRES
+85852748,"BRASA PARQUE RESTAURANTE, LDA",Horeca,BRAGA,BRAGA
+85852753,BRASA RIA-RESTAURAÇÃO LDA (BRASA RIO),Distribuição,LISBOA,LISBOA
+85852758,"BRASA VG-ACT. HOTELEIRAS, LDA.(ALENT VASCOGAMA)",Horeca,LISBOA,LISBOA
+85852763,"BRAZINHA & FILHO, LDA.",Distribuição,SESIMBRA,SESIMBRA
+85852768,BREVES SABORES UNIPESSOAL LDA,Distribuição,CORROIOS,CORROIOS
+85852793,"CAFÉ CANTINHO - CANTINHO DAS MELOAS - RESTAURAÇÃO,",Horeca,COVA,COVA DA PIEDADE
+85852798,CAFÉ CHANTELLE - FERNANDO JORGE MACHADO TEIXEIRA,Horeca,CHARNECA,CHARNECA DA CAPARICA
+132687974,"CAFÉ DA GI UNIPESSOAL, LDA",Horeca,CACILHAS,CACILHAS
+101134559,CAFÉ DO BAIRRO: MARLI JUSTINO DA  SILVA,Horeca,LOURES,LOURES
